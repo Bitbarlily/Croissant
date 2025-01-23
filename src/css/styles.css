@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(243, 197, 164);
+}
+
+header {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  margin-right: 15px;
+  margin-left: 15px;
+  color: rgb(18, 80, 18);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(0, 146, 0, 0.815);
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
